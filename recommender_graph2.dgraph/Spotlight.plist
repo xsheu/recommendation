@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>Daily time spent on site
+Daily internet usage
+clicked (RI = 0.986)
+not clicked (RI = 0.993)
+
+Histogram of Daily Time Spent on Site
+Histogram of Daily Time Spent on Site
+Histogram of Daily Time Spent on Site
+Histogram of Daily Time Spent on Site
+
+Histogram of Daily Internet Usage
+Histogram of Daily Internet Usage
+Histogram of Daily Internet Usage
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
